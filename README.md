@@ -9,7 +9,7 @@ Projeto desenvolvido no evento da Imersão Dev ( ALURA )
 
 Projeto construído no evento Imersão Dev Alura.
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://jrodrygues.github.io/superTrunfoImersaoDevAlura/)
 
 
 ## 🛠 Tecnologias
